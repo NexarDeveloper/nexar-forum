@@ -1,3 +1,3 @@
 # nexar-forum
 
-Welcome to discuss anything Nexar related at [discussions](https://github.com/NexarDeveloper/nexar-forum/discussions).
+The Nexar forum has been superseded by the [Support System](https://support.nexar.com).  Alternatively, you can send us an [email](mailto:support@nexar.com).
